@@ -9,7 +9,7 @@ route = { pattern = "pb.eeeee.cf", custom_domain = true }
 
 kv_namespaces = [
   { binding = "PB", id = "de87556776f6465ba4c723472cd1e18e" },
-  { binding = "PBIMGS", id ="d90ef82be55244e2bd3ff9b887d2d0b0" }
+  { binding = "PBIMGS", id ="c710406e0acf4c7ba7741018ed2aff70" }
 ]
 
 [site]
