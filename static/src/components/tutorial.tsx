@@ -7,7 +7,7 @@ export default function Turorial() {
 
       <pre
         dangerouslySetInnerHTML={{
-          __html: `curl 'https://pastes.551111.xyz/api/create' --data-raw '{"content":"123123","expire":121,"isPrivate":true}'`,
+          __html: `curl 'https://pb.eeeee.cf/api/create' --data-raw '{"content":"123123","expire":121,"isPrivate":true}'`,
         }}
       ></pre>
 
