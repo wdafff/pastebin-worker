@@ -40,4 +40,5 @@ yarn dev
 
 ## 部署
 
+
 获取你的 cloudflare 账号的 api key，然后设置为 github aciton 的 secret，名字为`CF_API_KEY`，这样每次 push 代码到 main 分支，就会自动部署到 cloudflare
